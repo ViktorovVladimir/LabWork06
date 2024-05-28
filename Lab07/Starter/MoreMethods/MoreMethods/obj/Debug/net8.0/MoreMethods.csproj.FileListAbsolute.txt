@@ -1,0 +1,15 @@
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\bin\Debug\net8.0\MoreMethods.exe
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\bin\Debug\net8.0\MoreMethods.deps.json
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\bin\Debug\net8.0\MoreMethods.runtimeconfig.json
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\bin\Debug\net8.0\MoreMethods.dll
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\bin\Debug\net8.0\MoreMethods.pdb
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\obj\Debug\net8.0\MoreMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\obj\Debug\net8.0\MoreMethods.AssemblyInfoInputs.cache
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\obj\Debug\net8.0\MoreMethods.AssemblyInfo.cs
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\obj\Debug\net8.0\MoreMethods.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\obj\Debug\net8.0\MoreMethods.sourcelink.json
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\obj\Debug\net8.0\MoreMethods.dll
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\obj\Debug\net8.0\refint\MoreMethods.dll
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\obj\Debug\net8.0\MoreMethods.pdb
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\obj\Debug\net8.0\MoreMethods.genruntimeconfig.cache
+D:\Labs\LabWork06\Lab07\Starter\MoreMethods\MoreMethods\obj\Debug\net8.0\ref\MoreMethods.dll

@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{E64C9595-7FB5-4849-9681-D3613614B0EE}|MoreMethods\\MoreMethods.csproj|d:\\labs\\labwork06\\lab07\\starter\\moremethods\\moremethods\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E64C9595-7FB5-4849-9681-D3613614B0EE}|MoreMethods\\MoreMethods.csproj|solutionrelative:moremethods\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C9595-7FB5-4849-9681-D3613614B0EE}|MoreMethods\\MoreMethods.csproj|d:\\labs\\labwork06\\lab07\\starter\\moremethods\\moremethods\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C9595-7FB5-4849-9681-D3613614B0EE}|MoreMethods\\MoreMethods.csproj|solutionrelative:moremethods\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C9595-7FB5-4849-9681-D3613614B0EE}|MoreMethods\\MoreMethods.csproj|d:\\labs\\labwork06\\lab07\\starter\\moremethods\\moremethods\\inputmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C9595-7FB5-4849-9681-D3613614B0EE}|MoreMethods\\MoreMethods.csproj|solutionrelative:moremethods\\inputmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputModule.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork06\\Lab07\\Starter\\MoreMethods\\MoreMethods\\InputModule.cs",
+              "RelativeDocumentMoniker": "MoreMethods\\InputModule.cs",
+              "ToolTip": "D:\\Labs\\LabWork06\\Lab07\\Starter\\MoreMethods\\MoreMethods\\InputModule.cs",
+              "RelativeToolTip": "MoreMethods\\InputModule.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:26:46.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork06\\Lab07\\Starter\\MoreMethods\\MoreMethods\\BankAccount.cs",
+              "RelativeDocumentMoniker": "MoreMethods\\BankAccount.cs",
+              "ToolTip": "D:\\Labs\\LabWork06\\Lab07\\Starter\\MoreMethods\\MoreMethods\\BankAccount.cs",
+              "RelativeToolTip": "MoreMethods\\BankAccount.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:17:04.198Z"
             },
             {
               "$type": "Document",
@@ -28,7 +60,7 @@
               "RelativeDocumentMoniker": "MoreMethods\\CreateAccount.cs",
               "ToolTip": "D:\\Labs\\LabWork06\\Lab07\\Starter\\MoreMethods\\MoreMethods\\CreateAccount.cs",
               "RelativeToolTip": "MoreMethods\\CreateAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwBQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T20:07:28.737Z",
               "EditorCaption": ""
