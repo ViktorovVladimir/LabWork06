@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Labs\\LabWork06\\Lab07\\Starter\\CreateAccount\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC994F1F-D73D-408B-9A70-B61C41EC16AA}|CreateAccount\\CreateAccount.csproj|d:\\labs\\labwork06\\lab07\\starter\\createaccount\\createaccount\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC994F1F-D73D-408B-9A70-B61C41EC16AA}|CreateAccount\\CreateAccount.csproj|solutionrelative:createaccount\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC994F1F-D73D-408B-9A70-B61C41EC16AA}|CreateAccount\\CreateAccount.csproj|d:\\labs\\labwork06\\lab07\\starter\\createaccount\\createaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC994F1F-D73D-408B-9A70-B61C41EC16AA}|CreateAccount\\CreateAccount.csproj|solutionrelative:createaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC994F1F-D73D-408B-9A70-B61C41EC16AA}|CreateAccount\\CreateAccount.csproj|d:\\labs\\labwork06\\lab07\\starter\\createaccount\\createaccount\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC994F1F-D73D-408B-9A70-B61C41EC16AA}|CreateAccount\\CreateAccount.csproj|solutionrelative:createaccount\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC994F1F-D73D-408B-9A70-B61C41EC16AA}|CreateAccount\\CreateAccount.csproj|d:\\labs\\labwork06\\lab07\\starter\\createaccount\\createaccount\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC994F1F-D73D-408B-9A70-B61C41EC16AA}|CreateAccount\\CreateAccount.csproj|solutionrelative:createaccount\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AccountType.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork06\\Lab07\\Starter\\CreateAccount\\CreateAccount\\AccountType.cs",
               "RelativeDocumentMoniker": "CreateAccount\\AccountType.cs",
@@ -38,30 +38,31 @@
               "RelativeToolTip": "CreateAccount\\AccountType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T19:07:16.179Z"
+              "WhenOpened": "2024-05-28T19:07:16.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CreateAccount.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork06\\Lab07\\Starter\\CreateAccount\\CreateAccount\\CreateAccount.cs",
               "RelativeDocumentMoniker": "CreateAccount\\CreateAccount.cs",
               "ToolTip": "D:\\Labs\\LabWork06\\Lab07\\Starter\\CreateAccount\\CreateAccount\\CreateAccount.cs",
               "RelativeToolTip": "CreateAccount\\CreateAccount.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAzAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T19:02:23.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork06\\Lab07\\Starter\\CreateAccount\\CreateAccount\\BankAccount.cs",
               "RelativeDocumentMoniker": "CreateAccount\\BankAccount.cs",
               "ToolTip": "D:\\Labs\\LabWork06\\Lab07\\Starter\\CreateAccount\\CreateAccount\\BankAccount.cs",
               "RelativeToolTip": "CreateAccount\\BankAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA8wCAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T19:00:36.874Z",
               "EditorCaption": ""

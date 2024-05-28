@@ -29,10 +29,12 @@ namespace CreateAccountNameSpace
             Console.Write("Enter the account balance!  : ");
             decimal balance = decimal.Parse(Console.ReadLine());
 
+
             //--.
-            created.accNo = number;
-            created.accBal = balance;
-            created.accType = AccountType.Checking;
+            //created.accNo = number;
+            //created.accBal = balance;
+            //created.accType = AccountType.Checking;
+            created.Populate(number, balance);
 
             return created;
         }
@@ -40,9 +42,9 @@ namespace CreateAccountNameSpace
         //--.
         static void Write(BankAccount toWrite)
         {
-            Console.WriteLine("Account number is {0}", toWrite.accNo);
-            Console.WriteLine("Account balance is {0}", toWrite.accBal);
-            Console.WriteLine("Account type is {0}", toWrite.accType.ToString() );
+            Console.WriteLine("Account number is {0}", toWrite.Number());
+            Console.WriteLine("Account balance is {0}", toWrite.Ballance());
+            Console.WriteLine("Account type is {0}", toWrite.Type() );
         }
     }
 }
