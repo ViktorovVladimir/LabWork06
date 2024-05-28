@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CreateAccountNameSpace
+namespace MoreMethodsNameSpace
 {
     class CreateAccount
     {
@@ -22,19 +22,20 @@ namespace CreateAccountNameSpace
             BankAccount created = new BankAccount();
 
             //--.
-            Console.Write("Enter the account number    : ");
-            long number = long.Parse(Console.ReadLine());
+            //Console.Write("Enter the account number    : ");
+            //long number = long.Parse(Console.ReadLine());
+            //long number = BankAccount.NextNumber();
+            
 
             //--.
             Console.Write("Enter the account balance!  : ");
             decimal balance = decimal.Parse(Console.ReadLine());
-
-
+            
             //--.
             //created.accNo = number;
             //created.accBal = balance;
             //created.accType = AccountType.Checking;
-            created.Populate(number, balance);
+            created.Populate(balance);
 
             return created;
         }
