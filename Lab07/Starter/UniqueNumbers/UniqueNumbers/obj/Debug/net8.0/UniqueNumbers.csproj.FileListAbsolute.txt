@@ -1,0 +1,15 @@
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\bin\Debug\net8.0\UniqueNumbers.exe
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\bin\Debug\net8.0\UniqueNumbers.deps.json
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\bin\Debug\net8.0\UniqueNumbers.runtimeconfig.json
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\bin\Debug\net8.0\UniqueNumbers.dll
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\bin\Debug\net8.0\UniqueNumbers.pdb
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\obj\Debug\net8.0\UniqueNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\obj\Debug\net8.0\UniqueNumbers.AssemblyInfoInputs.cache
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\obj\Debug\net8.0\UniqueNumbers.AssemblyInfo.cs
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\obj\Debug\net8.0\UniqueNumbers.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\obj\Debug\net8.0\UniqueNumbers.sourcelink.json
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\obj\Debug\net8.0\UniqueNumbers.dll
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\obj\Debug\net8.0\refint\UniqueNumbers.dll
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\obj\Debug\net8.0\UniqueNumbers.pdb
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\obj\Debug\net8.0\UniqueNumbers.genruntimeconfig.cache
+D:\Labs\LabWork06\Lab07\Starter\UniqueNumbers\UniqueNumbers\obj\Debug\net8.0\ref\UniqueNumbers.dll
