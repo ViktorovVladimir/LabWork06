@@ -19,7 +19,7 @@ namespace CreateAccountNameSpace
         //--.
         static BankAccount NewBankAccount()
         {
-            BankAccount created;
+            BankAccount created = new BankAccount();
 
             //--.
             Console.Write("Enter the account number    : ");

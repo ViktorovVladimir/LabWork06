@@ -1,7 +1,7 @@
 ﻿
 using System.Security.Principal;
 
-struct BankAccount
+class BankAccount
 {
     public long accNo;
     public decimal accBal;
