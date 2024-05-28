@@ -1,0 +1,15 @@
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\bin\Debug\net8.0\CreateAccount.exe
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\bin\Debug\net8.0\CreateAccount.deps.json
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\bin\Debug\net8.0\CreateAccount.runtimeconfig.json
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\bin\Debug\net8.0\CreateAccount.dll
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\bin\Debug\net8.0\CreateAccount.pdb
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\obj\Debug\net8.0\CreateAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\obj\Debug\net8.0\CreateAccount.AssemblyInfoInputs.cache
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\obj\Debug\net8.0\CreateAccount.AssemblyInfo.cs
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\obj\Debug\net8.0\CreateAccount.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\obj\Debug\net8.0\CreateAccount.sourcelink.json
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\obj\Debug\net8.0\CreateAccount.dll
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\obj\Debug\net8.0\refint\CreateAccount.dll
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\obj\Debug\net8.0\CreateAccount.pdb
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\obj\Debug\net8.0\CreateAccount.genruntimeconfig.cache
+D:\Labs\LabWork06\Lab07\Starter\CreateAccount\CreateAccount\obj\Debug\net8.0\ref\CreateAccount.dll
